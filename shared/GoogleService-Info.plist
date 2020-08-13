@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944320282244-k82h317qttiaufqa38ci3v5rbc30jrn7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944320282244-k82h317qttiaufqa38ci3v5rbc30jrn7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>944320282244-d5a83jaammeo5utbkroenl7gmgadoi2i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVLdTVzxfHx0io4cHpexbck5PWOJ6ApXQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944320282244</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gloo.phoenix-ios-dev</string>
+	<key>PROJECT_ID</key>
+	<string>seatest-81bab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seatest-81bab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944320282244:ios:4784c37b87964f1a3b4cd1</string>
+	<key>DATABASE_URL</key>
+	<string>https://seatest-81bab.firebaseio.com</string>
+</dict>
+</plist>

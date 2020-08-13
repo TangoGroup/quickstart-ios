@@ -23,7 +23,7 @@ import Firebase
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
   var window: UIWindow?
-  let customURLScheme = "dlscheme"
+  let customURLScheme = "phoenix.dev"
 
   // [START didfinishlaunching]
   func application(_ application: UIApplication,
